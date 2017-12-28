@@ -1,12 +1,11 @@
 {
   "name": "angular-img-cropper",
-  "version": "1.0.0",
-  "homepage": "http://blog.allanbishop.com/angularjs-image-cropper.html",
+  "version": "1.0.1",
   "authors": [
-    "Allan Bishop<allan.bishop@gmail.com>"
+    "123"
   ],
   "description": "Client side image cropper directive for AngularJS (rectangular area, aspect ratio, multi-touch)",
-  "main": "dist/angular-img-cropper.min.js",
+  "main": "angular-img-cropper.min.js",
   "keywords": [
     "crop"
   ],
